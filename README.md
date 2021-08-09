@@ -1,16 +1,16 @@
 # :computer: UNIVERSITY :computer:
 
-## 1st year
+## :sparkles: 1st year
 ### 2nd semester
 (16) [Laboratórios de Informática II](https://github.com/rita-peixoto/uminho-lei/)
 
-## 2nd year
+## :sparkles: 2nd year
 ### 2nd semester
 (18) [Laboratórios de Informática III](https://github.com/rita-peixoto/uminho-lei/)
 
 (15) [Programação Orientada aos Objetos](https://github.com/rita-peixoto/uminho-lei/)
 
-## 3rd year
+## :sparkles: 3rd year
 ### 1st semester
 
 (18) [Bases de Dados](https://github.com/rita-peixoto/uminho-lei/)
