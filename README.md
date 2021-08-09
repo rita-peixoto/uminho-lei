@@ -2,12 +2,12 @@
 
 ## 1st year
 ### 2nd semester
-[Laboratórios de Informática II](https://github.com/rita-peixoto/uminho-lei/)
+(16) [Laboratórios de Informática II](https://github.com/rita-peixoto/uminho-lei/)
 
 ## 2nd year
-
 ### 2nd semester
 (18) [Laboratórios de Informática III](https://github.com/rita-peixoto/uminho-lei/)
+
 (15) [Programação Orientada aos Objetos](https://github.com/rita-peixoto/uminho-lei/)
 
 ## 3rd year
