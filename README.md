@@ -1,5 +1,7 @@
 # :computer: UNIVERSITY :computer:
 
+Here you will be able to find most of the projects I participated during college and the grade I obtained in each. 😃
+
 ## :sparkles: 1st year
 ### 2nd semester
 (16) [Laboratórios de Informática II](https://github.com/rita-peixoto/uminho-lei/)
