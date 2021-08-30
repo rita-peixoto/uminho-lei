@@ -6,6 +6,7 @@ This was a project build in Java and following a MVC architecture.
 
 [Here](https://github.com/rita-peixoto/uminho-lei/tree/main/2YEAR/2nd/POO/TrazAqui/src/TrazAqui) you can access the developed code.
 
+
 Grade: 15 out of 20
 
 ### Contributors:
