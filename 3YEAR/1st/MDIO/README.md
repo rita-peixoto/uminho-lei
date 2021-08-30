@@ -11,3 +11,4 @@ I worked in 3 projects based in operational research.
 - [Rita Peixoto](https://github.com/rita-peixoto)
 - [Ana Luísa Carneiro](https://github.com/Analucar)
 - [Luís Pinto](https://github.com/L-Pinto)
+- Pedro Fernandes
