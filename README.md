@@ -47,9 +47,9 @@ Please note that all grades are on a scale of 1 to 20 🙂
 
 (18) [Modelos Estocásticos de Investigação Operacional](https://github.com/rita-peixoto/uminho-lei/tree/main/3YEAR/2nd/MEIO)
 
-(18) [Processamento de Linguagens](https://github.com/rita-peixoto/uminho-lei/tree/main/3YEAR/2nd/PL)
+(19,16) [Processamento de Linguagens](https://github.com/rita-peixoto/uminho-lei/tree/main/3YEAR/2nd/PL)
 
-(19) [Sistemas de Representação de Conhecimento e Raciocínio](https://github.com/rita-peixoto/uminho-lei/tree/main/3YEAR/2nd/SRCR)
+(18,19) [Sistemas de Representação de Conhecimento e Raciocínio](https://github.com/rita-peixoto/uminho-lei/tree/main/3YEAR/2nd/SRCR)
 
 
 
