@@ -45,7 +45,7 @@ Please note that all grades are on a scale of 1 to 20 🙂
 
 (16) [Laboratórios de Informática IV](https://github.com/rita-peixoto/uminho-lei/tree/main/3YEAR/2nd/LI4)
 
-(18) [Modelos Estocásticos de Investigação Operacional](https://github.com/rita-peixoto/uminho-lei/)
+(18) [Modelos Estocásticos de Investigação Operacional](https://github.com/rita-peixoto/uminho-lei/tree/main/3YEAR/2nd/MEIO)
 
 (18) [Processamento de Linguagens](https://github.com/rita-peixoto/uminho-lei/tree/main/3YEAR/2nd/PL)
 
