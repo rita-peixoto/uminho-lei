@@ -1,0 +1,12 @@
+C:\Users\Rita\Desktop\2ºSemestre\LI4\FASE 3\ProjetoLI4_FaseIII_G36\PorAli\DataAccessPorali\bin\Release\net5.0\DataAccessPorali.deps.json
+C:\Users\Rita\Desktop\2ºSemestre\LI4\FASE 3\ProjetoLI4_FaseIII_G36\PorAli\DataAccessPorali\bin\Release\net5.0\DataAccessPorali.dll
+C:\Users\Rita\Desktop\2ºSemestre\LI4\FASE 3\ProjetoLI4_FaseIII_G36\PorAli\DataAccessPorali\bin\Release\net5.0\ref\DataAccessPorali.dll
+C:\Users\Rita\Desktop\2ºSemestre\LI4\FASE 3\ProjetoLI4_FaseIII_G36\PorAli\DataAccessPorali\bin\Release\net5.0\DataAccessPorali.pdb
+C:\Users\Rita\Desktop\2ºSemestre\LI4\FASE 3\ProjetoLI4_FaseIII_G36\PorAli\DataAccessPorali\obj\Release\net5.0\DataAccessPorali.csprojAssemblyReference.cache
+C:\Users\Rita\Desktop\2ºSemestre\LI4\FASE 3\ProjetoLI4_FaseIII_G36\PorAli\DataAccessPorali\obj\Release\net5.0\DataAccessPorali.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rita\Desktop\2ºSemestre\LI4\FASE 3\ProjetoLI4_FaseIII_G36\PorAli\DataAccessPorali\obj\Release\net5.0\DataAccessPorali.AssemblyInfoInputs.cache
+C:\Users\Rita\Desktop\2ºSemestre\LI4\FASE 3\ProjetoLI4_FaseIII_G36\PorAli\DataAccessPorali\obj\Release\net5.0\DataAccessPorali.AssemblyInfo.cs
+C:\Users\Rita\Desktop\2ºSemestre\LI4\FASE 3\ProjetoLI4_FaseIII_G36\PorAli\DataAccessPorali\obj\Release\net5.0\DataAccessPorali.csproj.CoreCompileInputs.cache
+C:\Users\Rita\Desktop\2ºSemestre\LI4\FASE 3\ProjetoLI4_FaseIII_G36\PorAli\DataAccessPorali\obj\Release\net5.0\DataAccessPorali.dll
+C:\Users\Rita\Desktop\2ºSemestre\LI4\FASE 3\ProjetoLI4_FaseIII_G36\PorAli\DataAccessPorali\obj\Release\net5.0\ref\DataAccessPorali.dll
+C:\Users\Rita\Desktop\2ºSemestre\LI4\FASE 3\ProjetoLI4_FaseIII_G36\PorAli\DataAccessPorali\obj\Release\net5.0\DataAccessPorali.pdb
