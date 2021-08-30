@@ -15,6 +15,10 @@ Here you will find most of the projects I worked during college and the grade ob
 
 (15 out of 20) [Programação Orientada aos Objetos](https://github.com/rita-peixoto/uminho-lei/)
 
+(13 out of 20) [Cálculo de Programas](https://github.com/rita-peixoto/uminho-lei/)
+
+(13 out of 20) [Sistemas Operativos](https://github.com/rita-peixoto/uminho-lei/)
+
 ## :sparkles: 3rd year
 ### 1st semester
 
