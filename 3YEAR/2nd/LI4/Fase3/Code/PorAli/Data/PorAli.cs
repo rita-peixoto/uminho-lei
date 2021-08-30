@@ -29,7 +29,7 @@ namespace PorAli.Data
             long epoch = convertTime(date);
 
             string request_api = "https://maps.googleapis.com/maps/api/directions/json?";
-            string key = "key=AIzaSyBF98jX9qVO-bB8pr-x6GIo9TGTDXqR3Go";
+            string key = "key=-";
             string settings = "&transit_mode=bus&mode=transit&alternatives=true&";
 
             //replace blank space
@@ -223,7 +223,7 @@ namespace PorAli.Data
         public void calculaHorarioPenultima(Viagem v)
         {
             string request_api = "https://maps.googleapis.com/maps/api/distancematrix/json?units=imperial&";
-            string key = "&key=AIzaSyBF98jX9qVO-bB8pr-x6GIo9TGTDXqR3Go";
+            string key = "&key=-";
 
             List<Percurso> percursos = v.percursos;
 
