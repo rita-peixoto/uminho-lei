@@ -3,8 +3,8 @@
 I worked in 2 projects being one of them in numeral methods and the other in non-linear optimization.
 
 ##### Grades:
-- Numeral Methods Project (TP1): 18 out of 20
-- Non-linear Optimization Project (TP2): 19 out of 20
+- Numeral Methods Project [(TP1)](https://github.com/rita-peixoto/uminho-lei/tree/main/3YEAR/1st/MNONL/TP1) : 18 out of 20
+- Non-linear Optimization Project [(TP2)](https://github.com/rita-peixoto/uminho-lei/tree/main/3YEAR/1st/MNONL/TP2) : 19 out of 20
 
 ### Contributors:
 - [Rita Peixoto](https://github.com/rita-peixoto)
