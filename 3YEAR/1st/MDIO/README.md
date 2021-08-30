@@ -3,9 +3,9 @@
 I worked in 3 projects based in operational research.
 
 ##### Grades:
-- 1st project: 20 out of 20
-- 2nd project: 15 out of 20
-- 3rd project: 20 out of 20
+- 1st project (TP1) : 20 out of 20
+- 2nd project (TP2) : 15 out of 20
+- 3rd project (TP3) : 20 out of 20
 
 ### Contributors:
 - [Rita Peixoto](https://github.com/rita-peixoto)
