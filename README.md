@@ -1,6 +1,6 @@
 # :computer: UNIVERSITY :computer:
 
-Here you will find most of the projects I worked during college and the grade obtained in each. 😃
+Here you will find most of the projects I worked during college and the grade obtained at each. 😃
 
 Please note that all grades are on a scale of 1 to 20 🙂
 
