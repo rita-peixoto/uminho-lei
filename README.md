@@ -2,6 +2,8 @@
 
 Here you will find most of the projects I worked during college and the grade obtained in each. 😃
 
+Please note that all grades are on a scale of 1 to 20 🙂
+
 ## :sparkles: 1st year
 ### 1st semester
 (18) [Elementos de Engenharia de Sistemas](https://github.com/rita-peixoto/uminho-lei/)
