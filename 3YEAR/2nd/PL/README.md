@@ -12,4 +12,3 @@ For the second project (TP2) the goal was to develop a compiler for a certain la
 - [Rita Peixoto](https://github.com/rita-peixoto)
 - [Ana Luísa Carneiro](https://github.com/Analucar)
 - [Luís Pinto](https://github.com/L-Pinto)
-- Pedro Fernandes
