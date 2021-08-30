@@ -3,6 +3,9 @@
 Here you will find most of the projects I worked during college and the grade obtained in each. 😃
 
 ## :sparkles: 1st year
+### 2st semester
+(18 out of 20) [Elementos de Engenharia de Sistemas](https://github.com/rita-peixoto/uminho-lei/)
+
 ### 2nd semester
 (16 out of 20) [Laboratórios de Informática II](https://github.com/rita-peixoto/uminho-lei/)
 
