@@ -5,7 +5,10 @@ Here you will find most of the projects I worked during college and the grade ob
 Please note that all grades are on a scale of 1 to 20 🙂
 
 ## :sparkles: 1st year 
-2018/2019 edition
+
+- ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=2018/2019 edition) `#c5f015`
+
+
 ### 1st semester
 (18) [Elementos de Engenharia de Sistemas](https://github.com/rita-peixoto/uminho-lei/tree/main/1YEAR/1st/EES)
 
