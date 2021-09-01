@@ -6,7 +6,7 @@ Please note that all grades are on a scale of 1 to 20 🙂
 
 ## :sparkles: 1st year 
 
-- ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=2018/2019 edition) `#c5f015`
+![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=2018/2019 edition) `#c5f015`
 
 
 ### 1st semester
