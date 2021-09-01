@@ -6,7 +6,7 @@ Please note that all grades are on a scale of 1 to 20 🙂
 
 ## :sparkles: 1st year 
 2018/2019 edition
-
+<p style='color:red'>This is some red text.</p>
 ### 1st semester
 (18) [Elementos de Engenharia de Sistemas](https://github.com/rita-peixoto/uminho-lei/tree/main/1YEAR/1st/EES)
 
