@@ -1,6 +1,6 @@
 ### :sparkles: Computação Gráfica
 
-Along with my team, I build an animated Solar System using C++.
+Along with my team, I built an animated Solar System using C++.
 
 Grade: 18 out of 20
 
