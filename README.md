@@ -1,6 +1,6 @@
 # :computer: UNIVERSITY :computer:
 
-➯ **Licenciatura Engenharia Informática, Universidade do Minho** 
+➯ **Licentiate degree Software Engineering, University of Minho** 
 
 Here you will find most of the projects I worked on during college and the grade obtained at each. 😃
 
