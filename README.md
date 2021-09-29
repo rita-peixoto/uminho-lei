@@ -2,9 +2,9 @@
 
 ➯ **Licentiate degree Software Engineering, University of Minho** 
 
-Here you will find most of the projects I worked on during college and the grade obtained at each. 😃
+Here you will find most of the projects I worked on during college and the grade obtained at each.
 
-Please note that all grades are on a scale of 1 to 20 🙂
+Please note that all grades are on a scale of 1 to 20.
 
 ## :sparkles: 1st year 
 ➯ **2018/2019 edition**
