@@ -6,7 +6,7 @@ Here you will find most of the projects I worked on during college and the grade
 
 Please note that all grades are on a scale of 1 to 20.
 
-## :sparkles: 1st year 
+## :sparkles: 1st year :sparkles:
 ➯ **2018/2019 edition**
 
 ### 1st semester
@@ -15,7 +15,7 @@ Please note that all grades are on a scale of 1 to 20.
 ### 2nd semester
 (16) [Laboratórios de Informática II](https://github.com/rita-peixoto/uminho-lei/tree/main/1YEAR/2nd/LI2)
 
-## :sparkles: 2nd year
+## :sparkles: 2nd year :sparkles:
 ➯ **2019/2020 edition**
 
 ### 2nd semester
@@ -27,10 +27,10 @@ Please note that all grades are on a scale of 1 to 20.
 
 (13) [Sistemas Operativos](https://github.com/rita-peixoto/uminho-lei/tree/main/2YEAR/2nd/SO)
 
-## :sparkles: 3rd year 
+## :sparkles: 3rd year  :sparkles:
 ➯ **2020/2021 edition**
 
-### 1st semester
+### 1st semester 
 
 (18) [Bases de Dados](https://github.com/rita-peixoto/uminho-lei/tree/main/3YEAR/1st/BD)
 
