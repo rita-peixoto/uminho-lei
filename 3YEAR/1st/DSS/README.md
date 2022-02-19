@@ -1,4 +1,4 @@
-### :sparkles: Desenvolvimento de Sistemas de Software
+### Software Systems Development
 
 We had the chance to build a project from the very beggining to the very end. 
 
