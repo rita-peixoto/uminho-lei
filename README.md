@@ -2,7 +2,7 @@
 
 **Projects developed during Licentiate degree Software Engineering, University of Minho** 
 
-## :sparkles: 1st year :sparkles: 2018/2019
+## :sparkles: 1st year - 2018/2019
 
 ### 1st semester
 (18/20) [Elements of Systems Engineering](https://github.com/rita-peixoto/uminho-lei/tree/main/1YEAR/1st/EES)
