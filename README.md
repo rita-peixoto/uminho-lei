@@ -1,4 +1,6 @@
 # Software Engineering Bachelor's Degree
+📍 [University of Minho](https://www.uminho.pt/EN)
+
 
 Repository containing all projects developed during this course.
 
