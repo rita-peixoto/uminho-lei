@@ -1,4 +1,4 @@
-### :sparkles: Laboratórios de Informática II
+### Software Labs II
 
 We had the chance to develop Reversi game.
 
