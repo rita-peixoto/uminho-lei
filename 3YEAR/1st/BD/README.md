@@ -1,4 +1,4 @@
-### :sparkles: Bases de Dados
+### Databases
 
 We worked on "Series & Companhia" database, a streaming plaftorm for series. 
 This database was built using the relational model and mySQL.
