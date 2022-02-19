@@ -1,4 +1,4 @@
-### :sparkles: Computação Gráfica
+###  Graphics Computation
 
 Along with my team, I built an animated Solar System using C++.
 
