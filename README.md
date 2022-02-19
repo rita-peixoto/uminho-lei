@@ -48,7 +48,7 @@ Repository containing all projects developed during this course.
 
 (16/20) [Software Labs IV](https://github.com/rita-peixoto/uminho-lei/tree/main/3YEAR/2nd/LI4)
 
-(18/20) [Stochastic Models of Operational Research](https://github.com/rita-peixoto/uminho-lei/tree/main/3YEAR/2nd/MEIO)
+(18/20) [Stochastic Models of Operational Research](https://github.com/rita-peixoto/uminho-lei/tree/main/3YEAR/2nd/MEIO/TP)
 
 (19/20 , 16/20) [Language Processing](https://github.com/rita-peixoto/uminho-lei/tree/main/3YEAR/2nd/PL)
 
