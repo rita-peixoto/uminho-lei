@@ -1,5 +1,4 @@
-### :sparkles: Sistemas Distribuídos
-
+###  Distributed Systems
 I worked in "Alarme Covid" project, a system that monitors covid infected people.
 
 Grade: 16 out of 20
