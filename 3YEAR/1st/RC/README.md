@@ -1,4 +1,4 @@
-### :sparkles: Redes de Computadores
+### Computer Networking
 
 I had the chance to work in 3 projects with different themes in computer networking.
 
