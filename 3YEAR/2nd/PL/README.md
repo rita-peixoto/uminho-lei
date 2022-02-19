@@ -1,4 +1,4 @@
-### :sparkles: Processamento de Linguagens 
+### Language Processing
 
 In the first project (TP1) was developed a converter from CSV format to JSON using python and regular expressions.
 
