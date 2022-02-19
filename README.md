@@ -5,7 +5,7 @@
 ## 🎓 1st year (2018/2019)
 
 ### 1st semester
-(18/20) [Elements of Systems Engineering](https://github.com/rita-peixoto/uminho-lei/tree/main/1YEAR/1st/EES)
+(18 out of 20) [Elements of Systems Engineering](https://github.com/rita-peixoto/uminho-lei/tree/main/1YEAR/1st/EES)
 
 ### 2nd semester
 (16/20) [Software Labs II](https://github.com/rita-peixoto/uminho-lei/tree/main/1YEAR/2nd/LI2)
@@ -48,7 +48,7 @@
 
 (18/20) [Stochastic Models of Operational Research](https://github.com/rita-peixoto/uminho-lei/tree/main/3YEAR/2nd/MEIO)
 
-(19/20 , 16/20) [Language Processing](https://github.com/rita-peixoto/uminho-lei/tree/main/3YEAR/2nd/PL)
+(19 out of 20 , 16 out of 20) [Language Processing](https://github.com/rita-peixoto/uminho-lei/tree/main/3YEAR/2nd/PL)
 
 (18/20 , 19/20) [Systems of Representation of Knowledge and Reasoning](https://github.com/rita-peixoto/uminho-lei/tree/main/3YEAR/2nd/SRCR)
 
