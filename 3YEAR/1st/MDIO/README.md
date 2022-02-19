@@ -1,4 +1,4 @@
-### :sparkles: Modelos Determinísticos de Investigação Operacional
+### Deterministic Models and Operational Research
 
 I worked in 3 projects based in operational research.
 
