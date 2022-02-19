@@ -1,4 +1,4 @@
-### :sparkles: Comunicações Por Computador
+### Computer Comunication
 
 I worked on in 3 projects in computer networking.
 
