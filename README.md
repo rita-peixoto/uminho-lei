@@ -1,6 +1,6 @@
 # :computer: UNIVERSITY :computer:
 
-**Projects developed during Licentiate degree Software Engineering, University of Minho** 
+**Bachelor's degree in Software Engineering, University of Minho** 
 
 ## 🎓 1st year (2018/2019)
 
