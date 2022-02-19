@@ -1,4 +1,4 @@
-### :sparkles: Métodos Numéricos e Otimização não Linear
+###  Numeral Methods and Non-Linear Optimization
 
 I worked in 2 projects being one of them in numeral methods and the other in non-linear optimization.
 
