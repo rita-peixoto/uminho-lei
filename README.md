@@ -2,8 +2,7 @@
 
 **Projects developed during Licentiate degree Software Engineering, University of Minho** 
 
-## :sparkles: 1st year :sparkles:
-➯ **2018/2019 edition**
+## :sparkles: 1st year :sparkles: 2018/2019
 
 ### 1st semester
 (18/20) [Elements of Systems Engineering](https://github.com/rita-peixoto/uminho-lei/tree/main/1YEAR/1st/EES)
@@ -11,8 +10,7 @@
 ### 2nd semester
 (16/20) [Software Labs II](https://github.com/rita-peixoto/uminho-lei/tree/main/1YEAR/2nd/LI2)
 
-## :sparkles: 2nd year :sparkles:
-➯ **2019/2020 edition**
+## :sparkles: 2nd year :sparkles: 2019/2020
 
 ### 2nd semester
 (18/20) [Software Labs III](https://github.com/rita-peixoto/uminho-lei/tree/main/2YEAR/2nd/LI3)
@@ -23,8 +21,7 @@
 
 (13/20) [Operative Systems](https://github.com/rita-peixoto/uminho-lei/tree/main/2YEAR/2nd/SO)
 
-## :sparkles: 3rd year  :sparkles:
-➯ **2020/2021 edition**
+## :sparkles: 3rd year  :sparkles: 2020/2021
 
 ### 1st semester 
 
