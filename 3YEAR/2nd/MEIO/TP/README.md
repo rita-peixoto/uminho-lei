@@ -1,4 +1,4 @@
-### :sparkles: Modelos Estocásticos de Investigação Operacional
+### Stochastic Models of Operational Research
 
 I worked on operational research analysing different politics to adopt in a business.
 
