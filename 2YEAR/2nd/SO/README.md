@@ -1,4 +1,4 @@
-### :sparkles: Sistemas Operativos
+### Operative Systems
 
 In this subject we developed a project based in control and monitorization of communication and processes.
 
