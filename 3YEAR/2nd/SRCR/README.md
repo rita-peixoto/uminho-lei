@@ -1,4 +1,4 @@
-### :sparkles: Sistemas de Representação de Conhecimento e Raciocínio
+### Systems of Representation of Knowledge and Reasoning
 
 We were challenged to develop 2 projects, being one in group and the other individual, both using logic programming and prolog.
 
