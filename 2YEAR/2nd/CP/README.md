@@ -1,4 +1,4 @@
-### :sparkles: Cálculo de Programas
+### Program Calculation
 
 We had the chance to put into practise various concepts about funcional programming and formal methods.
 
