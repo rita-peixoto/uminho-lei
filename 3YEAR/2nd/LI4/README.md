@@ -1,4 +1,4 @@
-### :sparkles: Laboratórios de Informática IV
+### Software Labs IV
 
 I worked on "PorAli", a transport tracker application built to ease the use of public transports.
 
