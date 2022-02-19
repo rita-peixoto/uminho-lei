@@ -1,4 +1,4 @@
-### :sparkles: Programação Orientada a Objetos
+### Object Oriented Programming
 
 We worked on the "Traz Aqui" project, an app capable of managing food delivery in a pandemic situation.
 
