@@ -1,5 +1,5 @@
 
-## ✨ Laboratórios de Informática III
+## Software Labs III
 
 In this project we built an app capable of reading and managing big amounts of data. We learned that there are really good and efficient algorithms and data structures capable of dealing with a great volume of data. 
 
