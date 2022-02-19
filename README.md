@@ -1,9 +1,6 @@
 # :computer: UNIVERSITY :computer:
 
-➯ **Licentiate degree Software Engineering, University of Minho** 
-
-Here you will find most of the projects I worked on during university and the grade obtained at each.
-
+**Projects developed during Licentiate degree Software Engineering, University of Minho** 
 
 ## :sparkles: 1st year :sparkles:
 ➯ **2018/2019 edition**
