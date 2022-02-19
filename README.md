@@ -1,6 +1,6 @@
-# :computer: UNIVERSITY :computer:
+# Software Engineering Bachelor's Degree
 
-**Bachelor's degree in Software Engineering, University of Minho** 
+Repository containing all projects developed during this course.
 
 ## 🎓 1st year (2018/2019)
 
