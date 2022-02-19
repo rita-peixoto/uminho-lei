@@ -1,6 +1,6 @@
 ### :sparkles: Comunicações Por Computador
 
-I worked in 3 projects in computer networking.
+I worked on in 3 projects in computer networking.
 
 Grade: 17 out of 20
 
