@@ -52,7 +52,7 @@ Repository containing all projects developed during this course.
 
 (19/20 , 16/20) [Language Processing](https://github.com/rita-peixoto/uminho-lei/tree/main/3YEAR/2nd/PL)
 
-(18/20 , 19/20) [Systems of Representation of Knowledge and Reasoning](https://github.com/rita-peixoto/uminho-lei/tree/main/3YEAR/2nd/SRCR)
+(18/20 , 19/20) [Systems Representation of Knowledge and Reasoning](https://github.com/rita-peixoto/uminho-lei/tree/main/3YEAR/2nd/SRCR)
 
 
 
